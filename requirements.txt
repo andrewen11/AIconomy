@@ -1,0 +1,8 @@
+streamlit
+duckduckgo-search
+pandas
+pypdf
+litellm
+crewai
+ddgs
+crewai[google-genai]
