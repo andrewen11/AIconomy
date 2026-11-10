@@ -64,7 +64,7 @@
 python -m venv venv
 source venv/bin/activate
 ```
-# [WARNING] On Windows, you need to use: 
+##### [WARNING] On Windows, you need to use: 
 ```cmd
 venv\Scripts\activate
 ```
@@ -77,7 +77,7 @@ pip install -r requirements.txt
 
   4. Set up your Streamlit secrets/ api key(s) - you may take a look at the template provided in the .streamlit folder.
 
-# [IMPORTANT] Add your GEMINI_API_KEY inside secrets.toml
+##### [IMPORTANT] Add your GEMINI_API_KEY inside secrets.toml
 
   5. In order to run the Streamlit application, use:
 
